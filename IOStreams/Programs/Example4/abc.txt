@@ -1,0 +1,4 @@
+xyz bbc cbc dbc
+bbc xyz cbc dbc
+bbc cbc xyz dbc 
+bbc cbc dbc xyz
